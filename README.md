@@ -6,7 +6,7 @@ HTML5
 
 CSS
 
-Sass
+SCSS
 
 <h2> Screen View </h2>
 
