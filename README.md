@@ -1,6 +1,6 @@
 <h1>  Scss Project </h1>
 
-<h1> Used Languages </h1>
+<h1> Used Language </h1>
 
 HTML5
 
